@@ -41,6 +41,7 @@
      \/  \/ |___/  |_____|_| \_|     |_|  |_|  |_|______|   \_____|_|  |_/_/    \_\_|
 ]]
 -- credit to RegularVynixu aka vynixu for the letting me use the plr detection method!
+print("\"make it print \'fuck skolus\' on execute\" - skolus")
 local Loadtime = tick()
 local Repository = "https://raw.githubusercontent.com/RectangularObject/LinoriaLib/main/"
 
